@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 80%;
+}
+
+h1{
+    background: rgb(171, 171, 206);
+    border-bottom: solid blue;
+    color: rgb(53, 53, 88);
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.titulo{
+    background: rgb(171, 171, 206);
+    border-bottom: solid blue;
+    color: rgb(53, 53, 88);
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contato li{
+    list-style: none;
+    padding: 5px;   
+}
+
+.contato a:visited{
+    color: black;
+}
